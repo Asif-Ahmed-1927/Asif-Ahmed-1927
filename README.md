@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Asif Ahmed
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning PHP
 - 📫 How to reach me https://www.facebook.com/asif.ahmed19/
 
 <!---
